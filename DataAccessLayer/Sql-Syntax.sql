@@ -1,0 +1,17 @@
+﻿--use JoinDataEmployee
+--GO
+--CREATE TABLE Employees (
+--EmployeeId INT IDENTITY(1,1) PRIMARY KEY,
+--SurName VARCHAR (60),
+--Name VARCHAR (60),
+--Gender VARCHAR (1),
+--DepartmentId INT NULL
+--)
+--GO
+--INSERT INTO Employees VALUES ('Ogunniyi','Owamamwen','M', 1 )
+--INSERT INTO Employees VALUES ('Lorenzo','Nicolo','M', 2 )
+--INSERT INTO Employees VALUES ('Vincenzo','Luciano','M', 1 )
+--INSERT INTO Employees VALUES ('Filippo','Federica','F', 2 )
+--INSERT INTO Employees VALUES ('Stefano','Elisa','F', 3 )
+--INSERT INTO Employees VALUES ('Francesco','Anna','F', Null)
+--Go
